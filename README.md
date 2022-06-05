@@ -29,7 +29,7 @@ Neste projeto foram utilizadas as seguintes ferramentas:
             </a>
         </td>
         <td align="center">
-            <img src="./assets/LogoDevClub.png" width="130px;" alt="Logo DevClub"/><br>
+            <img src="../../assets/LogoDevClub.png" width="130px;" alt="Logo DevClub"/><br>
             <sub>
                 <b>DevClub</b>
             </sub>
