@@ -5,7 +5,7 @@
 </h1>
 
 
- <img src="../../assets/First-Project-React.gif" alt="gif react">
+ <img src=" ../../src/assets/First-Project-React.gif" alt="gif react">
 
 ### Technologies 
 
@@ -21,7 +21,7 @@ Neste projeto foram utilizadas as seguintes ferramentas:
     <tr>
         <td align="center">
             <a href="https://github.com/elioenaiancelmo">
-            <img src="../../assets/perfil.jpg" width="100px;" alt="Foto de Elioenai Ancelmo">
+            <img src=" ../../src/assets/perfil.jpg" width="100px;" alt="Foto de Elioenai Ancelmo">
             <br>
             <sub>
                 <b>Elioenai Ancelmo</b>
@@ -29,7 +29,7 @@ Neste projeto foram utilizadas as seguintes ferramentas:
             </a>
         </td>
         <td align="center">
-            <img src="../../assets/LogoDevClub.png" width="130px;" alt="Logo DevClub"/><br>
+            <img src=" ../../src/assets/LogoDevClub.png" width="130px;" alt="Logo DevClub"/><br>
             <sub>
                 <b>DevClub</b>
             </sub>
